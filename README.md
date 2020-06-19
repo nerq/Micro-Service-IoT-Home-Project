@@ -6,9 +6,13 @@ I will update the readme file with my thoughts and comments as well as resources
 
 Currently I will be focusing on the following topcis and technologies:
 
-- Micro Service Architecture and Principles
-- Messaging using Kafka
-- Python for backend services
-- React for frontend development
-- Docker
-- Test Driven Development
+* Micro Service Architecture and Principles
+* Messaging using Kafka
+* Python for backend services
+* React for frontend development
+* GraphQL as the API
+* Docker
+* Test Driven Development
+
+---
+[I found this resource relevant to help edit my .md file](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Thanks Adam Pritchard")
